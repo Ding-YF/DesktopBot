@@ -1,0 +1,2 @@
+# DesktopBot
+参考稚辉君ElectronBot制作一款桌面智能机器人
